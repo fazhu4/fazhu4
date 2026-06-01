@@ -45,7 +45,7 @@
 
 <div align="center">
 
-这个连续贡献好像不是很准
+这个连续贡献好像不是很准，探究了一下发现好像私有库的没算进去？
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fazhu4&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&user=fazhu4&locale=zh_Hans&theme=vue)](https://git.io/streak-stats)
 
@@ -54,7 +54,7 @@
 ## 联系我
 - 邮箱：2641465728@qq.com
 - GitHub:https://github.com/fazhu4
-- QQ:2641465728
+- QQ:[2641465728](https://qm.qq.com/cgi-bin/qm/qr?k=a-XTxdLrnevkqoGTgPUQ43v9ZNShRYNK)
 
 <!--
 **fazhu4/fazhu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
