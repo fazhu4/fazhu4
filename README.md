@@ -47,7 +47,7 @@
 
 这个连续贡献好像不是很准，探究了一下发现好像私有库的没算进去？
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fazhu4&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&user=fazhu4&locale=zh_Hans&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fazhu4&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&locale=zh_Hans&theme=vue)](https://git.io/streak-stats)
 
 </div>
 
