@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%E4%BD%A0%E5%A5%BD%E6%88%91%E6%98%AF%E6%B3%95%E5%8A%A9%F0%9F%91%8B;%E6%B3%95%E5%8A%A9%E7%A5%9D%E4%BD%A0%E6%AF%8F%E5%A4%A9%E5%BC%80%E5%BF%83%F0%9F%98%8A" alt="Typing SVG" /></a>
 <p align="center">
-  Java 后端开发学习者 ｜ Vibe Coding + 手动修改 享受者
+  Java 后端开发学习者 ｜ ai辅助编程享受者
 </p>
 </div>
 
@@ -31,7 +31,7 @@
 - SpringBootAlibaba
 - Vue3
 - 前后端分离，分别部署在个人服务器和GitHubPage上
-- 90%ai编程，用的Claude Code插件跟DeepSeepV4
+- 90% ai编程，用的Claude Code插件跟DeepSeepV4
 
 
 
